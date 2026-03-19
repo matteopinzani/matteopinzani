@@ -1,17 +1,11 @@
 # 👨‍💻 About Me
 
-I am a third-year **Computer Science student at the University of Florence (@UniFI)**, currently expanding my horizons through an **Erasmus+ program at Linnaeus University (Växjö, Sweden)**. 
+I am a third-year **Computer Science student** at the University of Florence (UniFI), currently on an **Erasmus exchange at Linnaeus University** (Växjö, Sweden). 
 
-My passion lies in **Data Analysis** and discovering how raw information can be transformed into strategic decisions. I thrive at the intersection of technology and problem-solving, with a goal to start my career as a **Data Analyst** or **Business Analyst**.
+I am passionate about turning raw data into strategic decisions and am actively working toward a career as a **Data Scientist**.
 
-### 🍎 Teaching & Communication
-Alongside my technical studies, I work as a **freelance tutor on @Superprof**, teaching **Math and Physics**. 
-* **What this taught me:** Beyond formulas, I've mastered the art of breaking down complex concepts into clear, actionable insights—a skill I now apply when explaining data trends and technical architectures.
-
-### 🎯 Current Focus
-- 📈 Advanced Data Analysis & Visualization
-- 🏗️ Building efficient backend systems (Java/Python)
-- 🧪 Scientific reporting with LaTeX
+**🎯 Current Focus**:
+Data Analysis & Visualization • Backend Development (Java/Python) • Scientific Reporting (LaTeX)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-pinzani-166b58281/) 
