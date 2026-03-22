@@ -2,8 +2,6 @@
 
 I am a third-year **Computer Science student** at the University of Florence (UniFI), currently on an **Erasmus exchange at Linnaeus University** (Växjö, Sweden). 
 
-I am passionate about turning raw data into strategic decisions and am actively working toward a career as a **Data Scientist**.
-
 **🎯 Current Focus**:
 Data Analysis & Visualization • Backend Development (Java/Python) • Scientific Reporting (LaTeX)
 
